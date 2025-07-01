@@ -2,14 +2,12 @@
 
 I am a passionate Analytic Engineer who transforms complex data into actionable business value. I excel at building scalable data solutions, automating workflows, and delivering impactful dashboards that drive strategic decision-making, optimize operational efficiency, and accelerate insights.
 
-
 ## Tech Stack
 
 - **Data Management & Warehousing**: SQL, SSMS, SSRS, Data Warehousing, Microsoft Fabric  
 - **ETL & Data Integration**: ETL/ELT, Data Transformation, Microsoft Power Platform  
 - **Business Intelligence & Visualization**: Power BI, Tableau, MicroStrategy, Data Modeling  
 - **Tools & Platforms**: Agiloft CLM, Microsoft Dynamics 365, Power App  
-
 
 ##  Work Experience
 
@@ -36,9 +34,8 @@ I am a passionate Analytic Engineer who transforms complex data into actionable 
 
 ##  Projects
 
-- **Delirium Prediction Model**: Developed a surveillance model to predict delirium onset in patients.  
-  evehliu.github.io/Delirium/
-
+- **[Delirium Prediction Model](evehliu.github.io/Delirium/)** : Developed a surveillance model to predict delirium onset in patients.  
+  
 
 ##  Education
 
@@ -56,4 +53,4 @@ I am a passionate Analytic Engineer who transforms complex data into actionable 
 
 ##  Connect with Me
 
-- LinkedIn Profile
+[LinkedIn Profile](https://www.linkedin.com/in/evyliu/)
