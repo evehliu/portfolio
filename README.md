@@ -4,7 +4,7 @@ I am a passionate Analytic Engineer who transforms complex data into actionable 
 
 ## Tech Stack
 
-- **Data Management & Warehousing**: SQL, SSMS, SSRS, Data Warehousing, Microsoft Fabric  
+- **Data Management & Warehousing**: SQL, SSMS, SSRS, Data Warehousing, Microsoft Fabric 
 - **ETL & Data Integration**: ETL/ELT, Data Transformation, Microsoft Power Platform  
 - **Business Intelligence & Visualization**: Power BI, Tableau, MicroStrategy, Data Modeling  
 - **Tools & Platforms**: Agiloft CLM, Microsoft Dynamics 365, Power App  
@@ -53,4 +53,6 @@ I am a passionate Analytic Engineer who transforms complex data into actionable 
 
 ##  Connect with Me
 
-[LinkedIn Profile](https://www.linkedin.com/in/evyliu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evyliu/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-evehliu%40example.com-red?logo=gmail&logoColor=white)](mailto:evehliu@gmail.com)
