@@ -1,7 +1,5 @@
 # Analytic Engineer
 
-I am a passionate Analytic Engineer who transforms complex data into actionable business value. I excel at building scalable data solutions, automating workflows, and delivering impactful dashboards that drive strategic decision-making, optimize operational efficiency, and accelerate insights.
-
 ## Tech Stack
 
 - **Data Management & Warehousing**: SQL, SSMS, SSRS, Data Warehousing, Microsoft Fabric 
