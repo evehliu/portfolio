@@ -34,7 +34,7 @@ I am a passionate Analytic Engineer who transforms complex data into actionable 
 
 ##  Projects
 
-- **[Delirium Prediction Model](evehliu.github.io/Delirium/)** : Developed a surveillance model to predict delirium onset in patients.  
+- **[Delirium Prediction Model](https://evehliu.github.io/Delirium/)** : Developed a surveillance model to predict delirium onset in patients.  
   
 
 ##  Education
