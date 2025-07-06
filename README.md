@@ -5,7 +5,7 @@
 - **Data Management & Warehousing**: SQL, SSMS, SSRS, Data Warehousing, Microsoft Fabric 
 - **ETL & Data Integration**: ETL/ELT, Data Transformation, Microsoft Power Platform  
 - **Business Intelligence & Visualization**: Power BI, Tableau, MicroStrategy, Data Modeling  
-- **Tools & Platforms**: Agiloft CLM, Microsoft Dynamics 365, Power App  
+- **Tools & Platforms**: Agiloft CLM, Microsoft Dynamics 365, Microsoft Power App  
 
 ##  Work Experience
 
