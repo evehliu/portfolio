@@ -7,7 +7,7 @@
 - **Business Intelligence & Visualization**: Power BI, Tableau, MicroStrategy, Data Modeling  
 - **Tools & Platforms**: Agiloft CLM, Microsoft Dynamics 365, Microsoft Power App  
 
-##  Work Experience
+##  Experience
 
 ### **Data Analyst, Fraser Health Authority**  *(Jul 2023 — Present)*
 
@@ -30,7 +30,7 @@
 - Launched a \$3M Impulse category in 6 months leveraging data analytics for product strategy and marketing.  
 
 
-##  Projects
+##  Project
 
 - **[Delirium Prediction Model](https://evehliu.github.io/Delirium/)** : Developed a surveillance model to predict delirium onset in patients. 
   
