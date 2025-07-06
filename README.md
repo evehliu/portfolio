@@ -56,9 +56,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="margin-right:12px;">
   </a>
   <a href="https://github.com/evehliu" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub" width="20" style="margin-right:12px;">
-  </a>
-  <a href="mailto:evehliu@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" style="margin-right:12px;">
+  </a>  
+ <a href="mailto:evehliu@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="20">
   </a>
 </p>
