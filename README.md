@@ -54,3 +54,22 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evyliu/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-evehliu%40example.com-red?logo=gmail&logoColor=white)](mailto:evehliu@gmail.com)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/evyliu/" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" style="vertical-align:middle; margin-right:8px;"/>
+    <span style="color:white; background-color:#0A66C2; padding:8px 16px; border-radius:30px; font-weight:bold; vertical-align:middle;">LinkedIn</span>
+  </a>
+</p>
+<p align="left">
+  <a href="mailto:evehliu@gmail.com" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="24" style="vertical-align:middle; margin-right:8px;"/>
+    <span style="color:white; background-color:#EA4335; padding:8px 16px; border-radius:30px; font-weight:bold; vertical-align:middle;">Gmail</span>
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/evehliu" target="_blank" style="text-decoration:none;">
+    <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub" width="24" style="vertical-align:middle; margin-right:8px;"/>
+    <span style="color:white; background-color:#181717; padding:8px 16px; border-radius:30px; font-weight:bold; vertical-align:middle;">GitHub</span>
+  </a>
+</p>
